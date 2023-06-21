@@ -11,4 +11,4 @@ Login Details
 To Login as admin put inside browser “http://localhost/hostel”
 Login Details for admin : admin/yash@1234
 Login Details for user : raj@gmail.com/1234
-Thanks
+Thanks Again
